@@ -1,7 +1,3 @@
----
-title: Welcome
----
-
 # Hi, I’m Rishi 👋
 
 Welcome to my corner of the internet!
